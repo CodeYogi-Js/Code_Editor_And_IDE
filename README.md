@@ -1,7 +1,7 @@
 # Code_Editor_And_IDE
 
 ## What is VS Code?
-- VS Code ([Visual Studio Code](https://code.visualstudio.com/)) is Microsoft's official source code editor. It is a free and lightweight application that works on Windows, macOS, and Linux. Because it uses less memory and fewer system resources, it runs smoothly on both low-end and high-end computers.
+- VS Code ( [Visual Studio Code](https://code.visualstudio.com/) ) is Microsoft's official source code editor. It is a free and lightweight application that works on Windows, macOS, and Linux. Because it uses less memory and fewer system resources, it runs smoothly on both low-end and high-end computers.
 
 VS Code supports almost every popular programming language, including HTML, CSS, JavaScript, Python, Java, C, C++, C#, PHP, Go, Rust, and many more. You can also install extensions to add support for additional languages and tools.
 
