@@ -75,4 +75,4 @@ An IDE is a Code Editor + many built-in development tools.
 * Build Tools
 * Testing Tools
 * Project Management
-- Git Support
+* Git Support
