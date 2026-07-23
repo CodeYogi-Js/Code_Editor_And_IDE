@@ -47,19 +47,19 @@ Think of it as a smart Notepad for programmers.
 
 - Features:
 
-✅ Code coloring (Syntax Highlighting)
-✅ Auto-complete
-✅ Search & Replace
-✅ Extensions
-✅ Terminal
-✅ Lightweight and fast
+- Code coloring (Syntax Highlighting)
+- Auto-complete
+- Search & Replace
+- Extensions
+- Terminal
+- Lightweight and fast
 
 ### What is an IDE?
 
 IDE stands for Integrated Development Environment.
 An IDE is a Code Editor + many built-in development tools.
 
-- Examples:
+**Examples:**
 
 1. Visual Studio
 2. IntelliJ IDEA
@@ -67,12 +67,12 @@ An IDE is a Code Editor + many built-in development tools.
 4. PyCharm
 5. Xcode
 
-- Features:
+**Features:**
 
-✅ Everything a Code Editor has
-✅ Compiler
-✅ Advanced Debugger
-✅ Build Tools
-✅ Testing Tools
-✅ Project Management
-✅ Git Support
+* Everything a Code Editor has
+* Compiler
+* Advanced Debugger
+* Build Tools
+* Testing Tools
+* Project Management
+- Git Support
