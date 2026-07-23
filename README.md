@@ -38,14 +38,14 @@ Technically, you can write code in a normal text editor like Microsoft Notepad b
 A Code Editor is software used to write and edit code.
 Think of it as a smart Notepad for programmers.
 
-- Examples:
+***Examples:***
 
 1. VS Code
 2. Sublime Text
 3. Notepad++
 4. Vim
 
-- Features:
+***Features:***
 
 - Code coloring (Syntax Highlighting)
 - Auto-complete
@@ -59,7 +59,7 @@ Think of it as a smart Notepad for programmers.
 IDE stands for Integrated Development Environment.
 An IDE is a Code Editor + many built-in development tools.
 
-**Examples:**
+***Examples:***
 
 1. Visual Studio
 2. IntelliJ IDEA
@@ -67,7 +67,7 @@ An IDE is a Code Editor + many built-in development tools.
 4. PyCharm
 5. Xcode
 
-**Features:**
+***Features:***
 
 * Everything a Code Editor has
 * Compiler
